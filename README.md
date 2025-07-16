@@ -48,7 +48,7 @@ Place these CSV files in your app working directory:
 
 ## Screenshots
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Historical.png)
 
 ## Project Structure
 
