@@ -62,4 +62,4 @@ Place these CSV files in your app working directory:
 ---
 
 **Contact:**  
-For questions or collaboration, feel free to connect via [LinkedIn](YOUR_LINKEDIN_URL).
+For questions or collaboration, feel free to connect via [LinkedIn](https://linkedin.com/in/rahafalhuzali).
