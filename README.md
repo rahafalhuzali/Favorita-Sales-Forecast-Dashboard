@@ -48,7 +48,7 @@ Place these CSV files in your app working directory:
 
 ## Screenshots
 
-*(Add screenshots of your app here for better presentation.)*
+*Historical.png*
 
 ## Project Structure
 
